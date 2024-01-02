@@ -18,7 +18,7 @@
 - Run the following command when the docker container is up and running `./npm_hosted.sh` this will create a blobstore, create the repository, create a user and create a team where the user is in via the API. 
 
 ## EXERCISE 5 to 7
-
+- Run the following command when the docker container is up and running `./maven_hosted.sh` this create a maven hosted repository and create a team with a specific. It will upload the jar file via the API.
 
 ## EXERCISE 8 & 9
 - Run the following command when the docker container is up and running `./download.sh` this will download the file from the repository from Nexus and extract in a folder
